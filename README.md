@@ -7,6 +7,6 @@
 * 데이터 참조 : http://www.kaggle.com/datasets/uciml/iris
 * 이미지
 * 내용 : 머신러닝 논문에 사용된 iris 데이터 셋에 대해 EDA, 기본 모델을 만들어보고 모델 평가
- - iris EDA [html]([Link](https://github.com/vvilliscool/MyDataAnalysis_2022/blob/master/IRIS_BASIC01.html))
+ - iris EDA [html(https://github.com/vvilliscool/MyDataAnalysis_2022/blob/master/IRIS_BASIC01.html)
  - iris 기본 모델 만들기 [html](Link)
  - iris 모델 평가 [html](Link)
